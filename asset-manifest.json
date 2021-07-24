@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finlyAssignment/static/css/main.c0095d24.chunk.css",
+    "main.js": "/finlyAssignment/static/js/main.9bd72089.chunk.js",
+    "main.js.map": "/finlyAssignment/static/js/main.9bd72089.chunk.js.map",
+    "runtime-main.js": "/finlyAssignment/static/js/runtime-main.b7ccea8d.js",
+    "runtime-main.js.map": "/finlyAssignment/static/js/runtime-main.b7ccea8d.js.map",
+    "static/js/2.72250cee.chunk.js": "/finlyAssignment/static/js/2.72250cee.chunk.js",
+    "static/js/2.72250cee.chunk.js.map": "/finlyAssignment/static/js/2.72250cee.chunk.js.map",
+    "static/js/3.1c18b4f2.chunk.js": "/finlyAssignment/static/js/3.1c18b4f2.chunk.js",
+    "static/js/3.1c18b4f2.chunk.js.map": "/finlyAssignment/static/js/3.1c18b4f2.chunk.js.map",
+    "index.html": "/finlyAssignment/index.html",
+    "static/css/main.c0095d24.chunk.css.map": "/finlyAssignment/static/css/main.c0095d24.chunk.css.map",
+    "static/js/2.72250cee.chunk.js.LICENSE.txt": "/finlyAssignment/static/js/2.72250cee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7ccea8d.js",
+    "static/js/2.72250cee.chunk.js",
+    "static/css/main.c0095d24.chunk.css",
+    "static/js/main.9bd72089.chunk.js"
+  ]
+}
